@@ -52,14 +52,5 @@ To get started with this project, follow these steps:
 
 4. Modify or extend the database schema, queries, or views as needed for your specific requirements.
 
-## Contributing
-
-Contributions to this project are welcome. If you have suggestions for improvements or additional features, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Enjoy using the Airport Database Project!
 
 ![Airport Diagram](https://raw.githubusercontent.com/Danil5115/Airport-DataBase/master/Airport%20ER-Diagram.bmp)
